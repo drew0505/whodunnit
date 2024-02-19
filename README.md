@@ -1,3 +1,3 @@
 # whodunnit
 whodunnit text-based game
-created by Andrew
+University of Manitoba COMP 2150 Course
